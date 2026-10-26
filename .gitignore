@@ -1,0 +1,27 @@
+/exp/
+/pretrained/
+/.idea/
+__pycache__
+
+gtFine_trainvaltest.zip
+leftImg8bit_trainvaltest.zip
+experiments
+data
+*.png
+*.csv
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Datasets and experiment outputs
+data/
+experiments/
+checkpoint/
+*.pth
+*.pt
+*.ckpt
+*.log
+events.out.tfevents.*
+*.zip
